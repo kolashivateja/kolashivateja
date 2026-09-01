@@ -23,12 +23,10 @@
 
 ## 📌 Featured Project
 
-### 🌾 Farmers Connect
+### 🌾 Farmers Connect Platform
 
-A Django-based platform that connects farmers directly with customers.
+Description: A Django-based platform that connects farmers directly with customers.
 
 **Technologies:** Python, Django, SQL, HTML, CSS, JavaScript
-
-## 📫 Connect With Me
 
 - GitHub: (https://github.com/kolashivateja/Farmers-Connect-Platform-using-Sql-Integration)
