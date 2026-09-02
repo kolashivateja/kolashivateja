@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, SQL
+**Languages:** Python, JavaScript
 
 **Frontend:** HTML, CSS, JavaScript,Bootstrap,React.js
 
@@ -21,12 +21,27 @@
 
 **Tools:** Git, GitHub, VS Code
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-### 🌾 Farmers Connect Platform
+### 1️⃣ Jobby App
 
-Description: A Django-based platform that connects farmers directly with customers.
+**Description:** Job listing and search platform that allows users to browse jobs, search and filter job listings, view job details, and manage saved jobs.
 
-**Technologies:** Python, Django, SQL, HTML, CSS, JavaScript
+**Features:** User Login/Logout(rahul / rahul@2021), Job Search, Job Filtering, Job Details, Saved Jobs, Dynamic Routing
 
-- GitHub: (https://github.com/kolashivateja/Farmers-Connect-Platform-using-Sql-Integration)
+**Tech:** React.js, HTML, CSS
+
+**Deployment:** shivatejajobby.ccbp.tech
+
+**GitHub:** https://github.com/kolashivateja/Jobby-App
+
+
+### 2️⃣ Farmers Connect Platform
+
+**Description:** Django-based web application that connects farmers directly with customers, allowing farmers to manage agricultural products and customers to place orders.
+
+**Features:** User Registration/Login, Product Management, Product Images, Product Availability, Customer Orders, Order Status Management
+
+**Tech:** Python, Django, SQLite, HTML, CSS, JavaScript
+
+**GitHub:** https://github.com/kolashivateja/Farmers-Connect-Platform-using-Sql-Integration
