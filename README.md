@@ -27,7 +27,7 @@
 
 **Description:** Job listing and search platform that allows users to browse jobs, search and filter job listings, view job details, and manage saved jobs.
 
-**Features:** User Login/Logout(rahul / rahul@2021), Job Search, Job Filtering, Job Details, Saved Jobs, Dynamic Routing
+**Features:** User Login/Logout(login credentials- rahul / rahul@2021), Job Search, Job Filtering, Job Details, Saved Jobs, Dynamic Routing
 
 **Tech:** React.js, HTML, CSS
 
