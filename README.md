@@ -31,7 +31,7 @@
 
 **Tech:** React.js, HTML, CSS
 
-**Deployment:** shivatejajobby.ccbp.tech
+**Deployment:** https://shivatejajobby.ccbp.tech
 
 **GitHub:** https://github.com/kolashivateja/Jobby-App
 
